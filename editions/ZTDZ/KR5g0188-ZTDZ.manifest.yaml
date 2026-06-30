@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR5g0188/ZTDZ/v1
+canonical_location: https://kanripo.org/bkk/KR5g0188/ZTDZ/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 上清玉帝七聖玄紀迴天九霄經
+  date: '2015-08-29 02:59:44.049989'
+  source:
+    repository: kanripo
+    path: KR5g0188
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+entity_encoding:
+  identifier: bkk:encoding/kanripo-pua-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+assets:
+  parts:
+  - {seq: 0, filename: KR5g0188_000-ZTDZ.yaml, hash: 'sha256:b72c8f1eb6180174f806bdc935afe5cca4eeb6a1a9c948670c2f6978497ba165'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR5g0188_000-ZTDZ.markers.yaml, hash: 'sha256:c19e68faa1d2bddccea1647987a9d9dab8957aa9cbc0b145507fe730cb46a3a6'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR5g0188_SJB_000-340062b
+    span:
+    - body
+    - 0
+    - 5198
+  label: juan 000
+  type: section
+  level: 1
+hash: sha256:1f192a80bbadc6c223d2cc8c05ae0494003aefbfccef9de14da6bae56c211370
